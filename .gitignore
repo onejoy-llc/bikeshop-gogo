@@ -1,0 +1,5 @@
+data/admin.json
+data/inquiries.json
+data/*.tmp
+.DS_Store
+dist/

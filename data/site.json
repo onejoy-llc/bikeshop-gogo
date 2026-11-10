@@ -1,0 +1,201 @@
+{
+  "site": {
+    "name": "バイクショップGOGO",
+    "nameEn": "BIKESHOP GOGO",
+    "tagline": "ビジネスバイク専門店",
+    "intro": "バイクショップGOGOではジャイロキャノピーやヤマハギアなどビジネスで使用するバイクを中心に販売・修理・レンタルを行なっております。\nUSB電源の取り付けやマルチバー（スマホバー）の取り付けなどビジネスバイクに便利なオプション取り付け作業も行なっております。\nぜひ一度お気軽にお問い合わせください。",
+    "heroImage": "/uploads/IMG_5105-scaled.jpg",
+    "subImage": "/uploads/DSC00109.jpg"
+  },
+  "shop": {
+    "address": "福岡県福岡市博多区上牟田3-6-14-102",
+    "mapQuery": "福岡県福岡市博多区上牟田3-6-14",
+    "hours": "7:30 AM – 16:30 PM",
+    "closedText": "土日",
+    "closedWeekdays": [0, 6],
+    "extraClosedDates": [],
+    "phone": "090-4770-5050",
+    "twitter": "https://twitter.com/BIKESHOP_ARISE",
+    "instagram": "https://www.instagram.com/bikeshop_arise/"
+  },
+  "rental": {
+    "text": "ビジネスバイクのレンタルは提携のビジネスバイクAtoZにて行っております。\nさまざまな車種を取扱っておりますのでぜひご覧ください。",
+    "linkName": "ビジネスバイクAtoZ",
+    "url": "http://business-bike.atozrentacar.com/",
+    "banner": "/uploads/businessbike_banner.jpg"
+  },
+  "contact": {
+    "text": "お問い合わせいただきましたら24時間以内に返信できるよう努めております。\nもしも１週間を過ぎても返信がない場合はメールアドレスに誤りがある可能性がございます。もう一度フォームよりお問合せください。"
+  },
+  "optionIntro": "部品代＋取り付け工賃込みの料金です。その他記載のない部品もお気軽にお問い合わせください。",
+  "options": [
+    {
+      "id": "usb",
+      "name": "USB電源",
+      "price": 16500,
+      "description": "スマートフォンの充電等に使用できるUSB電源（USB-A）です。２ポートあります。防水防塵キャップ付きです。",
+      "image": "/uploads/IMG_5102-scaled.jpg"
+    },
+    {
+      "id": "multibar",
+      "name": "マルチバー（スマホバー）",
+      "price": 8800,
+      "description": "スマートフォンホルダーの取付用のマルチバーです。",
+      "image": "/uploads/IMG_5100-scaled.jpg"
+    },
+    {
+      "id": "gripheater",
+      "name": "グリップヒーター",
+      "price": 22000,
+      "description": "左右グリップ部分を温めるヒーターです。インジケーターランプは6段階に変化します。また、5段階の温度設定が可能です。",
+      "image": "/uploads/IMG_5103-scaled.jpg"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "coms001",
+      "name": "超小型EVコムス#1",
+      "category": "コムス",
+      "type": "minicar",
+      "price": 550000,
+      "status": "販売中",
+      "published": true,
+      "createdAt": "2022-09-06",
+      "specs": [
+        { "k": "車名/メーカー", "v": "TOYOTA" },
+        { "k": "定格出力", "v": "0.59kW" },
+        { "k": "車台番号", "v": "TAK30-006****" },
+        { "k": "メーター表示", "v": "12,501km" },
+        { "k": "エンジン動作", "v": "正常に動作" },
+        { "k": "足回り", "v": "正常に動作" },
+        { "k": "カラーリング", "v": "白" },
+        { "k": "外装", "v": "小キズあり" },
+        { "k": "シート破れ", "v": "なし" },
+        { "k": "登録書類", "v": "有" },
+        { "k": "付属品", "v": "ボックス" }
+      ],
+      "images": ["/uploads/DSC00174_1.jpg", "/uploads/DSC00175.jpg", "/uploads/DSC00176.jpg", "/uploads/DSC00177.jpg", "/uploads/DSC00178.jpg", "/uploads/DSC00179.jpg", "/uploads/DSC00180.jpg", "/uploads/DSC00181.jpg", "/uploads/DSC00182.jpg", "/uploads/DSC00183.jpg", "/uploads/DSC00184.jpg", "/uploads/DSC00185.jpg", "/uploads/DSC00186.jpg"]
+    },
+    {
+      "id": "jayrocanopy4st005",
+      "name": "ジャイロキャノピー4ST#5",
+      "category": "ジャイロキャノピー",
+      "type": "bike",
+      "price": 469800,
+      "status": "販売中",
+      "published": true,
+      "createdAt": "2022-09-05",
+      "specs": [
+        { "k": "車名/メーカー", "v": "HONDA" },
+        { "k": "排気量", "v": "50cc" },
+        { "k": "車台番号", "v": "TA03-112****" },
+        { "k": "メーター表示", "v": "9,282km" },
+        { "k": "エンジン動作", "v": "正常に動作" },
+        { "k": "足回り", "v": "正常に動作" },
+        { "k": "カラーリング", "v": "白" },
+        { "k": "外装", "v": "小キズあり" },
+        { "k": "シート破れ", "v": "なし" },
+        { "k": "登録書類", "v": "有" },
+        { "k": "付属品", "v": "グリップヒーター、USB電源(2ポート)、スマホバー" }
+      ],
+      "images": ["/uploads/DSC00190_1.jpg", "/uploads/DSC00191.jpg", "/uploads/DSC00192.jpg", "/uploads/DSC00193.jpg", "/uploads/DSC00194.jpg", "/uploads/DSC00195.jpg", "/uploads/DSC00196.jpg", "/uploads/DSC00197.jpg", "/uploads/DSC00198.jpg", "/uploads/DSC00199.jpg", "/uploads/DSC00200.jpg", "/uploads/DSC00201.jpg"]
+    },
+    {
+      "id": "jayrocanopy4st004",
+      "name": "ジャイロキャノピー4ST#4",
+      "category": "ジャイロキャノピー",
+      "type": "bike",
+      "price": 399800,
+      "status": "販売中",
+      "published": true,
+      "createdAt": "2022-09-04",
+      "specs": [
+        { "k": "車名/メーカー", "v": "HONDA" },
+        { "k": "排気量", "v": "50cc" },
+        { "k": "車台番号", "v": "TA03-110****" },
+        { "k": "メーター表示", "v": "43,262km" },
+        { "k": "エンジン動作", "v": "正常に動作" },
+        { "k": "足回り", "v": "正常に動作" },
+        { "k": "カラーリング", "v": "白" },
+        { "k": "外装", "v": "小キズあり" },
+        { "k": "シート破れ", "v": "なし" },
+        { "k": "登録書類", "v": "有" },
+        { "k": "付属品", "v": "USB電源(2ポート)、スマホバー" }
+      ],
+      "images": ["/uploads/DSC00203_1.jpg", "/uploads/DSC00204.jpg", "/uploads/DSC00205.jpg", "/uploads/DSC00206-1.jpg", "/uploads/DSC00207.jpg", "/uploads/DSC00208.jpg", "/uploads/DSC00209.jpg", "/uploads/DSC00210.jpg", "/uploads/DSC00211.jpg", "/uploads/DSC00212.jpg", "/uploads/DSC00214.jpg"]
+    },
+    {
+      "id": "jayrocanopy4st003",
+      "name": "ジャイロキャノピー4ST#3",
+      "category": "ジャイロキャノピー",
+      "type": "bike",
+      "price": 429800,
+      "status": "販売中",
+      "published": true,
+      "createdAt": "2022-09-03",
+      "specs": [
+        { "k": "車名/メーカー", "v": "HONDA" },
+        { "k": "排気量", "v": "50cc" },
+        { "k": "車台番号", "v": "TA03-130****" },
+        { "k": "メーター表示", "v": "16,291km" },
+        { "k": "エンジン動作", "v": "正常に動作" },
+        { "k": "足回り", "v": "正常に動作" },
+        { "k": "カラーリング", "v": "白" },
+        { "k": "外装", "v": "小キズあり" },
+        { "k": "シート破れ", "v": "なし" },
+        { "k": "登録書類", "v": "有" },
+        { "k": "付属品", "v": "グリップヒーター、USB電源(2ポート)、スマホバー、ボックス" }
+      ],
+      "images": ["/uploads/DSC00122_1.jpg", "/uploads/DSC00123.jpg", "/uploads/DSC00124.jpg", "/uploads/DSC00125.jpg", "/uploads/DSC00126.jpg", "/uploads/DSC00154-scaled.jpg", "/uploads/DSC00155-scaled.jpg", "/uploads/DSC00156-scaled.jpg", "/uploads/DSC00157-scaled.jpg", "/uploads/DSC00158-scaled.jpg"]
+    },
+    {
+      "id": "jayrocanopy4st002",
+      "name": "ジャイロキャノピー4ST#2",
+      "category": "ジャイロキャノピー",
+      "type": "bike",
+      "price": 439800,
+      "status": "販売中",
+      "published": true,
+      "createdAt": "2022-09-02",
+      "specs": [
+        { "k": "車名/メーカー", "v": "HONDA" },
+        { "k": "排気量", "v": "50cc" },
+        { "k": "車台番号", "v": "TA03-130****" },
+        { "k": "メーター表示", "v": "12,697km" },
+        { "k": "エンジン動作", "v": "正常に動作" },
+        { "k": "足回り", "v": "正常に動作" },
+        { "k": "カラーリング", "v": "白" },
+        { "k": "外装", "v": "小キズあり" },
+        { "k": "シート破れ", "v": "なし" },
+        { "k": "登録書類", "v": "有" },
+        { "k": "付属品", "v": "グリップヒーター、USB電源(2ポート)、スマホバー、ボックス" }
+      ],
+      "images": ["/uploads/DSC00116_1.jpg", "/uploads/DSC00117.jpg", "/uploads/DSC00118.jpg", "/uploads/DSC00119.jpg", "/uploads/DSC00120.jpg", "/uploads/DSC00168-scaled.jpg", "/uploads/DSC00169-scaled.jpg", "/uploads/DSC00170-scaled.jpg", "/uploads/DSC00171-scaled.jpg", "/uploads/DSC00172-scaled.jpg"]
+    },
+    {
+      "id": "jayrocanopy4st001",
+      "name": "ジャイロキャノピー4ST#1",
+      "category": "ジャイロキャノピー",
+      "type": "bike",
+      "price": 419800,
+      "status": "販売中",
+      "published": true,
+      "createdAt": "2022-09-01",
+      "specs": [
+        { "k": "車名/メーカー", "v": "HONDA" },
+        { "k": "排気量", "v": "50cc" },
+        { "k": "車台番号", "v": "TA03-130****" },
+        { "k": "メーター表示", "v": "15065 km" },
+        { "k": "エンジン動作", "v": "正常に動作" },
+        { "k": "足回り", "v": "正常に動作" },
+        { "k": "カラーリング", "v": "白" },
+        { "k": "外装", "v": "小キズあり" },
+        { "k": "シート破れ", "v": "なし" },
+        { "k": "登録書類", "v": "有" },
+        { "k": "付属品", "v": "グリップヒーター、USB電源(2ポート)、スマホバー、ボックス" }
+      ],
+      "images": ["/uploads/DSC00109_1.jpg", "/uploads/DSC00110.jpg", "/uploads/DSC00112.jpg", "/uploads/DSC00113.jpg", "/uploads/DSC00160.jpg", "/uploads/DSC00161.jpg", "/uploads/DSC00162.jpg", "/uploads/DSC00163.jpg", "/uploads/DSC00164.jpg"]
+    }
+  ],
+  "parts": []
+}
